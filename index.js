@@ -1,1 +1,1 @@
-console.log(‘script’)
+function sum(a,b) {return a+b;}
